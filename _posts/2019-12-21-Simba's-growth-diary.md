@@ -8,11 +8,9 @@ tags: [Simba, growth, record]
 
 2019.10.13
 
-On this day, Simba came to my side. He(maybe she) is a little nervous like me.![1](C:\Users\lenovo\Desktop\1.jpg)
+On this day, Simba came to my side. He(maybe she) is a little nervous like me.![1](C:\Users\lenovo\Desktop\WUpingpin.github.io\i\1.jpg)
 
-He wanna run away..................![4](C:\Users\lenovo\Desktop\4.jpg)
-
-
+He wanna run away..................![4](C:\Users\lenovo\Desktop\WUpingpin.github.io\i\4.jpg)
 
 
 
