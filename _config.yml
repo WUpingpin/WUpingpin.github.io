@@ -2,15 +2,15 @@
 # Theme Customization #
 #######################
 
-title: J. Bravo                             # used in <title> tag & site header
-author: Johnny Bravo                        # used in a <meta> tag & /feed.xml
+title: WUpingpin                             # used in <title> tag & site header
+author: WUpingpin                        # used in a <meta> tag & /feed.xml
 description: >                              # used in a <meta> tag & /feed.xml
-  Hello 911 emergency, there's a handsome guy in my house!
+  Hello 911 emergency, there's a cute girl in my house!
   Oh wait a second, cancel that. It's only me.
 slogan: Showtime!                           # used in site header, beside title
 avatar: /i/avatar.png                       # used as portrait in site header
 banner: /i/mountains.svg                    # used as background in site header
-url: http://solana.ryanlue.com              # used by plugins to generate feed.xml and sitemap.xml
+url: https://wupingpin.github.io/              # used by plugins to generate feed.xml and sitemap.xml
 baseurl: ''                                 # prepended to all absolute filepaths
 repo: https://github.com/rlue/jekyll-solana # used in footer
 
@@ -24,7 +24,7 @@ nav_menu:
     url: /projects
     icon: /i/icons.svg#portfolio
   - name: GitHub
-    url: https://github.com/rlue/
+    url: https://github.com/WUpingpin
     icon: /i/icons.svg#github
     outbound: true      # this key sets a link to open in a new window.
   - name: Contact
@@ -35,11 +35,11 @@ nav_menu:
 
 # Objects listed here will appear on the /projects.html page.
 projects:
-  - title: Solana
-    teaser: A responsive blog template written in Sass and vanilla JavaScript.
-    url: https://github.com/rlue/jekyll-solana
-    role: Creator
-    category: Frontend Dev
+  - title: Resume
+    teaser: More information about me!
+    url: /i/Resume.png
+    role: Author
+    category: Resume
   - title: Cortana
     teaser: A talking robot. Now available on Google Play?
     url: https://play.google.com/store/apps/details?id=com.microsoft.cortana
