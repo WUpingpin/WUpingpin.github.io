@@ -20,8 +20,8 @@ nav_menu:
   - name: Posts
     url: /
     icon: /i/icons.svg#posts # icons should be 24x24 px.
-  - name: Projects
-    url: /projects
+  - name: Information
+    url: /information
     icon: /i/icons.svg#portfolio
   - name: GitHub
     url: https://github.com/WUpingpin
@@ -34,7 +34,7 @@ nav_menu:
     icon: /i/icons.svg#email
 
 # Objects listed here will appear on the /projects.html page.
-projects:
+information:
   - title: Resume
     teaser: More information about me!
     url: /i/Resume.png
@@ -45,11 +45,11 @@ projects:
     url: https://baike.sogou.com/v54616255.htm?fromTitle=梁博
     role: Singer-Songwriter
     category: Idol
-  - title: Rihanna
-    teaser: Possibly another robot. Also available on Google Play.
-    url: https://play.google.com/store/music/artist/Rihanna?id=Arcw2m2ih45qntv3fufub25tyhu
-    role: Contributor
-    category: Algorithmic Composition
+  - title: Weibo
+    teaser: Daily life...
+    url: https://weibo.com/u/3980989769/home?wvr=5
+    role: Author
+    category: Entertainment
 
 #################
 # Site Settings #
